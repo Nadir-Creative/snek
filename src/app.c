@@ -11,7 +11,7 @@
 #include "app-title.h"
 
 // GLOBAL VARIABLES---------------------------------------------
-#define APP_DEBUG 1
+#define APP_DEBUG 0
 
 uint8_t g_running = 1;
 AppState g_state = APP_STARTUP;

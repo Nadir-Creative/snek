@@ -1,4 +1,4 @@
 #!/bin/bash
 # Simple compile script to build all .c files in /src directory to create executable.
 
-zig cc ./src/*.c -lraylib -lX11 -lGL -o nadir
+zig cc ./src/*.c -lraylib -lX11 -lGL -o snek
